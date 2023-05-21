@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Atom.io\\FlutDart\\New folder\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\path_provider_android\\intermediates\\merged_res\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Smart Lap\\.gradle\\caches\\transforms-3\\fe69e93776212385d74f79354413aebf\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Atom.io\\FlutDart\\New folder\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\path_provider_android\\intermediates\\merged_res\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Smart Lap\\.gradle\\caches\\transforms-3\\fe69e93776212385d74f79354413aebf\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Atom.io\\FlutDart\\New folder\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\path_provider_android\\intermediates\\merged_res\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Smart Lap\\.gradle\\caches\\transforms-3\\fe69e93776212385d74f79354413aebf\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Atom.io\\FlutDart\\New folder\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\path_provider_android\\intermediates\\merged_res\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Smart Lap\\.gradle\\caches\\transforms-3\\fe69e93776212385d74f79354413aebf\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Atom.io\\FlutDart\\New folder\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\path_provider_android\\intermediates\\merged_res\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Smart Lap\\.gradle\\caches\\transforms-3\\fe69e93776212385d74f79354413aebf\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Atom.io\\FlutDart\\New folder\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\path_provider_android\\intermediates\\merged_res\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Smart Lap\\.gradle\\caches\\transforms-3\\fe69e93776212385d74f79354413aebf\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    }
+]
